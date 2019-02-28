@@ -25,7 +25,7 @@
     <!-- Title for the button to trigger the 'Manage keyboards' preference sub-screen, where the user can turn on/off installed virtual keyboards.[CHAR LIMIT=35 BACKUP_MESSAGE_ID=3302152381456516928] -->
     <string name="add_virtual_keyboard">Klavyeleri yönet</string>
     <!-- App name of SettingsIntelligence [CHAR_LIMIT=30] -->
-    <string name="app_name_settings_intelligence">Ayarlar Önerileri</string>
+    <string name="app_name_settings_intelligence">Ayarlar önerileri</string>
     <!-- SEARCH STRINGS -->
     <!-- Button to clear all search history in Settings [CHAR LIMIT=40]-->
     <string name="search_clear_history">Geçmişi temizle</string>
