@@ -16,14 +16,5 @@
   limitations under the License.
   -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- Applications settings title. If clicked, the user is taken to a screen full of application settings [CHAR_LIMIT=NONE BACKUP_MESSAGE_ID=5281808652705396152] -->
     <string name="applications_settings">Dades de l\'aplicació</string>
-    <!-- Settings title in main settings screen for accessibility settings [CHAR_LIMIT=NONE BACKUP_MESSAGE_ID=3975902491934816215] -->
-    <!-- Title for the 'physical keyboard' settings screen. [CHAR LIMIT=35 BACKUP_MESSAGE_ID=8285149877925752042] -->
-    <!-- Title for the button to trigger the 'Manage keyboards' preference sub-screen, where the user can turn on/off installed virtual keyboards.[CHAR LIMIT=35 BACKUP_MESSAGE_ID=3302152381456516928] -->
-    <!-- App name of SettingsIntelligence [CHAR_LIMIT=30] -->
-    <!-- SEARCH STRINGS -->
-    <!-- Button to clear all search history in Settings [CHAR LIMIT=40]-->
-    <!-- DO NOT TRANSLATE Summary placeholder -->
-    <!-- Search breadcrumb connector symbol -->
 </resources>

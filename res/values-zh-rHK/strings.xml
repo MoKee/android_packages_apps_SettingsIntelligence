@@ -16,20 +16,11 @@
   limitations under the License.
   -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- Applications settings title. If clicked, the user is taken to a screen full of application settings [CHAR_LIMIT=NONE BACKUP_MESSAGE_ID=5281808652705396152] -->
     <string name="applications_settings">應用程式資料</string>
-    <!-- Settings title in main settings screen for accessibility settings [CHAR_LIMIT=NONE BACKUP_MESSAGE_ID=3975902491934816215] -->
     <string name="accessibility_settings">無障礙輔助</string>
-    <!-- Title for the 'physical keyboard' settings screen. [CHAR LIMIT=35 BACKUP_MESSAGE_ID=8285149877925752042] -->
     <string name="physical_keyboard_title">實體鍵盤</string>
-    <!-- Title for the button to trigger the 'Manage keyboards' preference sub-screen, where the user can turn on/off installed virtual keyboards.[CHAR LIMIT=35 BACKUP_MESSAGE_ID=3302152381456516928] -->
     <string name="add_virtual_keyboard">管理鍵盤</string>
-    <!-- App name of SettingsIntelligence [CHAR_LIMIT=30] -->
     <string name="app_name_settings_intelligence">建議設定</string>
-    <!-- SEARCH STRINGS -->
-    <!-- Button to clear all search history in Settings [CHAR LIMIT=40]-->
     <string name="search_clear_history">清除歷史記錄</string>
-    <!-- DO NOT TRANSLATE Summary placeholder -->
-    <!-- Search breadcrumb connector symbol -->
     <string name="search_no_results">沒有搜尋結果</string>
 </resources>
