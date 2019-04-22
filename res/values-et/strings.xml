@@ -17,4 +17,10 @@
   -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="applications_settings">Rakenduse teave</string>
+    <string name="accessibility_settings">Ligipääs</string>
+    <string name="physical_keyboard_title">Füüsiline klaviatuur</string>
+    <string name="add_virtual_keyboard">Klaviatuuride haldamine</string>
+    <string name="app_name_settings_intelligence">Seadete soovitused</string>
+    <string name="search_clear_history">Puhasta ajalugu</string>
+    <string name="search_no_results">Tulemusi pole</string>
 </resources>
