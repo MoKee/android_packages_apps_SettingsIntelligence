@@ -17,5 +17,10 @@
   -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="applications_settings">ಅಪ್ಲಿಕೇಶನ್ ಮಾಹಿತಿ</string>
+    <string name="accessibility_settings">ಪ್ರವೇಶಿಸುವಿಕೆ</string>
+    <string name="physical_keyboard_title">ಭೌತಿಕ ಕೀಲಿಮಣೆ</string>
+    <string name="add_virtual_keyboard">ಕೀಲಿಮಣೆಗಳನ್ನು ನಿರ್ವಹಿಸು</string>
+    <string name="app_name_settings_intelligence">ಸಂಯೋಜನೆಗಳ ಸೂಚನೆಗಳು</string>
+    <string name="search_clear_history">ಇತಿಹಾಸ ಅಳಿಸಿ</string>
     <string name="search_no_results">ಫಲಿತಾಂಶಗಳು ಇಲ್ಲ</string>
 </resources>
