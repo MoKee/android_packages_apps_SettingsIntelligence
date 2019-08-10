@@ -17,5 +17,10 @@
   -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="applications_settings">Info o aplikácii</string>
+    <string name="accessibility_settings">Zjednodušenie ovládania</string>
+    <string name="physical_keyboard_title">Fyzická klávesnica</string>
+    <string name="add_virtual_keyboard">Spravovať klávesnice</string>
+    <string name="app_name_settings_intelligence">Návrhy nastavení</string>
+    <string name="search_clear_history">Vymazať históriu</string>
     <string name="search_no_results">Žiadne výsledky</string>
 </resources>
