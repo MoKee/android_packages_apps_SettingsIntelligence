@@ -17,4 +17,5 @@
   -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="applications_settings">Информације о апликацији</string>
+    <string name="search_no_results">Нема резултата</string>
 </resources>
