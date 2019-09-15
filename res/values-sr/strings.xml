@@ -17,5 +17,10 @@
   -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="applications_settings">Информације о апликацији</string>
+    <string name="accessibility_settings">Приступачност</string>
+    <string name="physical_keyboard_title">Физичка тастатура</string>
+    <string name="add_virtual_keyboard">Управљајте тастатурама</string>
+    <string name="app_name_settings_intelligence">Предлози подешавања</string>
+    <string name="search_clear_history">Обриши историју</string>
     <string name="search_no_results">Нема резултата</string>
 </resources>
