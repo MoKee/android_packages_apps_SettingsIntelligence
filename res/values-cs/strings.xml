@@ -20,6 +20,6 @@
     <string name="physical_keyboard_title">Fyzická klávesnice</string>
     <string name="add_virtual_keyboard">Spravovat klávesnice</string>
     <string name="app_name_settings_intelligence">Návrhy nastavení</string>
-    <string name="search_clear_history">Vyčistit historii</string>
+    <string name="search_clear_history">Vymazat historii</string>
     <string name="search_no_results">Žádné výsledky</string>
 </resources>
