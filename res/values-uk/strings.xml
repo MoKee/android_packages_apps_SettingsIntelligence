@@ -16,5 +16,10 @@
   -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="applications_settings">Про додаток</string>
+    <string name="accessibility_settings">Спеціальні можливості</string>
+    <string name="physical_keyboard_title">Фізична клавіатура</string>
+    <string name="add_virtual_keyboard">Керувати клавіатурами</string>
+    <string name="app_name_settings_intelligence">Пропозиції щодо налаштувань</string>
+    <string name="search_clear_history">Очистити історію</string>
     <string name="search_no_results">Немає результатів</string>
 </resources>
