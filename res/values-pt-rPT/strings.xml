@@ -16,5 +16,10 @@
   -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="applications_settings">Inf. da aplicação</string>
+    <string name="accessibility_settings">Acessibilidade</string>
+    <string name="physical_keyboard_title">Teclado físico</string>
+    <string name="add_virtual_keyboard">Gerir teclados</string>
+    <string name="app_name_settings_intelligence">Definições</string>
+    <string name="search_clear_history">Apagar histórico</string>
     <string name="search_no_results">Sem resultados</string>
 </resources>

@@ -16,4 +16,5 @@
   -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="add_virtual_keyboard">விசைப்பலகைகளை நிர்வகி</string>
+    <string name="search_no_results">முடிவுகள் இல்லை</string>
 </resources>
